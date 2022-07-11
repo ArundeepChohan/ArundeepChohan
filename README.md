@@ -1,5 +1,13 @@
 ### Hi there 👋
-
+- 🔭 I’m currently working on learning new tech. 
+- 🌱 I’m currently learning AWS applications.
+- 👯 I’m looking to collaborate on anything.
+- 🤔 I’m looking for help with getting a difficult job. 
+- 💬 Ask me about Selenium I am one of the top 20 users in it.
+- 📫 How to reach me: Email: arundeepchohan2009@hotmail.com 
+- 😄 Pronouns: He/Him 
+- ⚡ Fun fact: Most likely if you can't find an element in Selenium it's most likely in an iframe.
+- 
 <!--
 **ArundeepChohan/ArundeepChohan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
