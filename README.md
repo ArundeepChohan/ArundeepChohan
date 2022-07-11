@@ -7,7 +7,9 @@
 - 📫 How to reach me: Email: arundeepchohan2009@hotmail.com 
 - 😄 Pronouns: He/Him 
 - ⚡ Fun fact: Most likely if you can't find an element in Selenium it's most likely in an iframe.
-- 
+
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=arundeepchohancount_private=true&theme=tokyonight&showicons=true)]()
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=arundeepchohan&langs_count=5&theme=tokyonight)]()
 <!--
 **ArundeepChohan/ArundeepChohan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
